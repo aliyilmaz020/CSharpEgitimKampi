@@ -10,7 +10,16 @@ namespace _01_MainSubjects
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Hi");
+            //Console.Write("Selam");
 
+            Console.WriteLine("***** Yemek Kategorileri *****");
+            Console.WriteLine();
+            Console.WriteLine("1-Çorbalar");
+            Console.WriteLine("2-Ana Yemekler");
+            
+
+            Console.Read();
         }
     }
 }
