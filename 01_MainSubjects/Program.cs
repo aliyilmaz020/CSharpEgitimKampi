@@ -19,7 +19,7 @@ namespace _01_MainSubjects
             //Console.WriteLine("2-Ana Yemekler");
             #endregion
 
-            #region Değişkenler
+            #region StringDeğişkenler
             string name;
             name = "Ali";
             Console.WriteLine(name);
