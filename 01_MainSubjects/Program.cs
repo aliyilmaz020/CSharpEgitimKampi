@@ -10,14 +10,36 @@ namespace _01_MainSubjects
     {
         static void Main(string[] args)
         {
+            #region YazdırmaKomutları
             //Console.WriteLine("Hi");
             //Console.Write("Selam");
+            //Console.WriteLine("***** Yemek Kategorileri *****");
+            //Console.WriteLine();
+            //Console.WriteLine("1-Çorbalar");
+            //Console.WriteLine("2-Ana Yemekler");
+            #endregion
 
-            Console.WriteLine("***** Yemek Kategorileri *****");
-            Console.WriteLine();
-            Console.WriteLine("1-Çorbalar");
-            Console.WriteLine("2-Ana Yemekler");
+            #region Değişkenler
+            string name;
+            name = "Ali";
+            Console.WriteLine(name);
+
+            string customerName;
+            string customerSurname;
+            string customerEmail;
             
+            customerName = "Ali";
+            customerSurname = "Veli";
+            customerEmail = "aaa@gmail.com";
+
+            Console.WriteLine("*** Rezervasyon Kartı ***");
+            Console.WriteLine("-----------------------");
+            Console.WriteLine("Müşteri: " + customerName + " " + customerSurname);
+            Console.WriteLine("E-Posta: " + customerEmail);
+            Console.WriteLine("-----------------------");
+
+            #endregion
+
 
             Console.Read();
         }
