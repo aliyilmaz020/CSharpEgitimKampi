@@ -67,13 +67,42 @@ namespace _02_Variables
 
             #region Char Değişkenler
 
-            char symbol;
-            symbol = 'a';
+            //char symbol;
+            //symbol = 'a';
 
-            Console.WriteLine(symbol);
+            //Console.WriteLine(symbol);
 
             #endregion
 
+            #region Klavyeden Veri Girişleri
+
+            Console.WriteLine("**** CSharp Hava Yolları Yolcu Bilgisi ****");
+            Console.WriteLine();
+
+            string passengerName, passengerSurname, passengerDistrict, passengerCity,
+                passengerAge, passengerIdentityNumber;
+
+            Console.Write("Yolcu Adı: ");
+            passengerName = Console.ReadLine();
+
+            Console.Write("Yolcu Soyadı: ");
+            passengerSurname = Console.ReadLine();
+            
+            Console.Write("İlçe Bilgisi: ");
+            passengerDistrict = Console.ReadLine();
+
+            Console.Write("Şehir Bilgisi: ");
+            passengerCity = Console.ReadLine();
+
+            Console.Write("Yolcunun Yaşı: ");
+            passengerAge = Console.ReadLine();
+
+            Console.Write("Yolcunun T.C. Kimlik Numarası: ");
+            passengerIdentityNumber = Console.ReadLine();
+
+            Console.WriteLine("Yolcu T.C. Kimlik No:"+passengerIdentityNumber +" Yolcu Ad Soyad: " + passengerName + " " + passengerSurname+ " " + passengerDistrict+ 
+                "/" + passengerCity + " " + passengerAge);
+            #endregion
 
             Console.Read();
         }
