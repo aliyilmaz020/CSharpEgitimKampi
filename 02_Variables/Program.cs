@@ -10,6 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8; //₺
             #region Double Değişkenler
             //double number;
             //number = 4.85;
@@ -26,11 +27,11 @@ namespace _02_Variables
             //potatoPrice = 9.74;
             //tomatoPrice = 6.88;
 
-            //Console.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " TL"); 
-            //Console.WriteLine("---- Portakal Birim Fiyatı: " + orangePrice + " TL"); 
-            //Console.WriteLine("---- Çilek Birim Fiyatı: " + strawberryPrice + " TL"); 
-            //Console.WriteLine("---- Patates Birim Fiyatı: " + potatoPrice + " TL"); 
-            //Console.WriteLine("---- Domates Birim Fiyatı: " + tomatoPrice + " TL"); 
+            //Console.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " ₺"); 
+            //Console.WriteLine("---- Portakal Birim Fiyatı: " + orangePrice + " ₺"); 
+            //Console.WriteLine("---- Çilek Birim Fiyatı: " + strawberryPrice + " ₺"); 
+            //Console.WriteLine("---- Patates Birim Fiyatı: " + potatoPrice + " ₺"); 
+            //Console.WriteLine("---- Domates Birim Fiyatı: " + tomatoPrice + " ₺"); 
 
             //double appleGram, orangeGram, strawberryGram, potatoGram, tomatoGram;
 
@@ -48,20 +49,20 @@ namespace _02_Variables
 
             //Console.WriteLine();
             //Console.WriteLine("Alınan Ürün: Elma - " + "Birim Fiyat: " + applePrice + " - " +
-            //    "Gramaj: " + appleGram + " - Toplam Tutar: " + appleTotalPrice + " TL");
+            //    "Gramaj: " + appleGram + " - Toplam Tutar: " + appleTotalPrice + " ₺");
             //Console.WriteLine("Alınan Ürün: Portakal - " + "Birim Fiyat: " + orangePrice + " - " +
-            //    "Gramaj: " + orangeGram + " - Toplam Tutar: " + orangeTotalPrice + " TL");
+            //    "Gramaj: " + orangeGram + " - Toplam Tutar: " + orangeTotalPrice + " ₺");
             //Console.WriteLine("Alınan Ürün: Çilek - " + "Birim Fiyat: " + strawberryPrice + " - " +
-            //    "Gramaj: " + strawberryGram + " - Toplam Tutar: " + strawberryTotalPrice + " TL");
+            //    "Gramaj: " + strawberryGram + " - Toplam Tutar: " + strawberryTotalPrice + " ₺");
             //Console.WriteLine("Alınan Ürün: Patates - " + "Birim Fiyat: " + potatoPrice + " - " +
-            //    "Gramaj: " + potatoGram + " - Toplam Tutar: " + potatoTotalPrice + " TL");
+            //    "Gramaj: " + potatoGram + " - Toplam Tutar: " + potatoTotalPrice + " ₺");
             //Console.WriteLine("Alınan Ürün: Domates - " + "Birim Fiyat: " + tomatoPrice + " - " +
-            //    "Gramaj: " + tomatoGram + " - Toplam Tutar: " + tomatoTotalPrice + " TL");
+            //    "Gramaj: " + tomatoGram + " - Toplam Tutar: " + tomatoTotalPrice + " ₺");
 
             //double shoppingTotalPrice = appleTotalPrice + orangeTotalPrice + 
             //    strawberryTotalPrice + potatoTotalPrice+tomatoTotalPrice;
             //Console.WriteLine();
-            //Console.WriteLine("Alışveriş Toplam Tutar: " + shoppingTotalPrice + " TL");
+            //Console.WriteLine("Alışveriş Toplam Tutar: " + shoppingTotalPrice + " ₺");
 
             #endregion
 
@@ -161,7 +162,7 @@ namespace _02_Variables
             //gender = char.Parse(Console.ReadLine());
 
             //Console.WriteLine("Seçtiğiniz Cinsiyet: " + gender);
-            
+
             #endregion
 
 
