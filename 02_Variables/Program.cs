@@ -120,17 +120,38 @@ namespace _02_Variables
 
             //Console.Write("Lütfen aldığınız bilgisayar sayısını giriniz: ");
             //computerCount = int.Parse(Console.ReadLine());
-            
+
             //Console.Write("Lütfen aldığınız sandalye sayısını giriniz: ");
             //chairCount = int.Parse(Console.ReadLine());
-            
+
             //Console.Write("Lütfen aldığınız televizyon sayısını giriniz: ");
             //tvCount = int.Parse(Console.ReadLine());
-            
+
             //int totalPrice = shoesCount*shoesPrice + computerCount*computerPrice + chairCount*chairPrice + tvCount*tvPrice;
 
             //Console.WriteLine();
             //Console.WriteLine("Toplam Ödemeniz Gereken Tutar: " + totalPrice);
+            #endregion
+
+            #region Klavyeden Ondalıklı Sayı İşlemleri
+
+            //double exam1, exam2, exam3, result;
+            
+            //Console.Write("Lütfen 1. Sınav notunu giriniz: ");
+            //exam1 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 2. Sınav notunu giriniz: ");
+            //exam2 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 3. Sınav notunu giriniz:  ");
+            //exam3 = double.Parse(Console.ReadLine());
+
+            //result = (exam1 + exam2 + exam3) / 3;
+
+            //Console.WriteLine();
+            //Console.WriteLine("Sınav Ortalamanız: " + result);
+           
+
             #endregion
             Console.Read();
         }
