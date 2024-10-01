@@ -136,7 +136,7 @@ namespace _02_Variables
             #region Klavyeden Ondalıklı Sayı İşlemleri
 
             //double exam1, exam2, exam3, result;
-            
+
             //Console.Write("Lütfen 1. Sınav notunu giriniz: ");
             //exam1 = double.Parse(Console.ReadLine());
 
@@ -150,9 +150,20 @@ namespace _02_Variables
 
             //Console.WriteLine();
             //Console.WriteLine("Sınav Ortalamanız: " + result);
-           
+
 
             #endregion
+
+            #region Klavyeden Karakter Girişleri
+
+            //char gender;
+            //Console.Write("Lütfen Cinsiyet Seçiniz: ");
+            //gender = char.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Seçtiğiniz Cinsiyet: " + gender);
+            
+            #endregion
+
             Console.Read();
         }
     }
