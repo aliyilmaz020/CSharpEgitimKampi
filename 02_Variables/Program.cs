@@ -10,7 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
-            #region
+            #region Double Değişkenler
             //double number;
             //number = 4.85;
             //Console.WriteLine(number);
@@ -64,7 +64,7 @@ namespace _02_Variables
             Console.WriteLine("Alışveriş Toplam Tutar: " + shoppingTotalPrice + " TL");
             
             #endregion
-
+             
            
 
             Console.Read();
