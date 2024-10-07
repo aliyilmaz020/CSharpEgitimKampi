@@ -144,7 +144,22 @@ namespace _03_MakingDecision
             //    Console.WriteLine("Sayı Tektir");
             //}
 
-            
+            //char team;
+            //Console.Write("Lütfen takım sembolünü giriniz: ");
+            //team = char.Parse(Console.ReadLine());
+
+            //if(team =='G' |team == 'g')
+            //{
+            //    Console.WriteLine("Galatasaray");
+            //}
+            //if(team == 'F' | team == 'f')
+            //{
+            //    Console.WriteLine("Fenerbahçe");
+            //}
+            //if(team == 'B' | team == 'b')
+            //{
+            //    Console.WriteLine("Beşiktaş");
+            //}
             #endregion
             Console.Read();
 
