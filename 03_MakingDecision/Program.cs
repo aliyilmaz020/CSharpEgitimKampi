@@ -114,7 +114,39 @@ namespace _03_MakingDecision
             //}
             #endregion
 
-            //Console.Read();
+            #region Mod İşlemleri
+
+            //int number;
+            //number = 26;
+            //int result = number % 5;
+            //Console.WriteLine(result);
+
+            //Console.Write("Lütfen 1. sayıyı giriniz: ");
+            //int number1 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 2. sayıyı giriniz: ");
+            //int number2 = int.Parse(Console.ReadLine());
+
+            //int result = number1 % number2;
+
+            //Console.WriteLine(result);
+
+
+            //Console.Write("Lütfen Sayıyı Giriniz: ");
+            //int number = int.Parse(Console.ReadLine());
+
+            //if (number % 2 == 0)
+            //{
+            //    Console.WriteLine("Sayı çifttir");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sayı Tektir");
+            //}
+
+            
+            #endregion
+            Console.Read();
 
         }
     }
