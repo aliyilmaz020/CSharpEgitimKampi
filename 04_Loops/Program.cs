@@ -79,8 +79,15 @@ namespace _04_Loops
             //}
             //Console.WriteLine(count);
 
-
+            //int bacterium = 1;
+            //for (int i = 1; i <= 24; i++)
+            //{
+            //    bacterium *= 2;
+            //    Console.WriteLine(i + ". Saat Sonunda: " + bacterium);
+            //}
             #endregion
+
+
 
 
             Console.Read();
