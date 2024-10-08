@@ -87,6 +87,39 @@ namespace _04_Loops
             //}
             #endregion
 
+            #region While Döngüsü
+
+            //int i = 1;
+
+            //while (i <= 10) 
+            //{ 
+            //    Console.WriteLine(i);
+            //}
+
+
+            //int i = 1;
+
+            //while (i <= 10)
+            //{
+            //    if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    i++;
+            //}
+
+            //int i = 1;
+            //int sum = 0;
+
+            //while (i <= 10)
+            //{
+            //    sum += i;
+            //    i++;
+            //}
+            //Console.WriteLine(sum);
+
+
+            #endregion
 
 
 
