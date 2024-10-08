@@ -121,6 +121,23 @@ namespace _04_Loops
 
             #endregion
 
+            #region Örnek Sınav Sorusu
+
+            Console.Write("Sayı giriniz: "); 
+            int number = int.Parse(Console.ReadLine());
+            int ones, tens, hundreds;
+            int sum;
+
+            ones = number%10;
+            tens = (number % 100) / 10;
+            hundreds = number/100;
+
+            sum = ones + tens + hundreds;
+            Console.WriteLine(ones + "-" + tens + "-" + hundreds);
+            Console.WriteLine(sum);
+            
+
+            #endregion
 
 
             Console.Read();
