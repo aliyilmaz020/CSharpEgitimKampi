@@ -10,6 +10,60 @@ namespace _07_ForeachLoop
     {
         static void Main(string[] args)
         {
+            #region Foreach Döngüsü
+
+            //string[] cities = { "Milano", "Roma", "Budapeşte", "Ankara", "İstanbul", "Varşova" };
+
+            //foreach(string x in cities)
+            //{
+            //    Console.WriteLine(x);
+            //}
+
+            //int[] numbers = { 45, 78, 985, 635, 74, 11, 22, 33, 41, 205, 6578, 10394 };
+
+            //foreach (int number in numbers)
+            //{
+            //    Console.WriteLine(number);
+            //}
+
+            //int[] numbers = { 45, 78, 985, 635, 74, 11, 22, 33, 41, 205, 6578, 10394 };
+
+            //foreach (int number in numbers)
+            //{
+            //    if(number % 2 == 0)
+            //    {
+            //        Console.WriteLine(number);
+            //    }
+            //}
+
+            //int[] numbers = { 45, 78, 985, 635, 74, 11, 22, 33, 41, 205, 6578, 10394 };
+            //int total = 0;
+
+            //foreach (int i in numbers)
+            //{
+            //    total += i;
+            //}
+            //Console.WriteLine(total);
+
+            //List<int> numbers = new List<int>
+            //{
+            //    1,2,3,4,5,8
+            //};
+
+            //foreach(int number in numbers)
+            //{
+            //    Console.WriteLine(number);
+            //}
+
+            //string word = "Merhaba";
+            //foreach(char c in word)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+
+            #endregion
+            Console.Read();
         }
     }
 }
