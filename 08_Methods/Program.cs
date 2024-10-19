@@ -85,7 +85,7 @@ namespace _08_Methods
 
             #endregion
 
-            #region Geriye Değer Döndüren Parametreli Metotlar
+            #region Geriye Değer Döndüren String Parametreli Metotlar
 
             //string CountryCard(string countryName,string capital,string flagColor)
             //{
