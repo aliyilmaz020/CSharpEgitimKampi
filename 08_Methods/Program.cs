@@ -10,6 +10,32 @@ namespace _08_Methods
     {
         static void Main(string[] args)
         {
+            #region Metotlar
+
+            //void CustomerList()
+            //{
+            //    Console.WriteLine("Ali Yıldız");
+            //    Console.WriteLine("Ayşe Yıldız");
+            //    Console.WriteLine("Hakan Öztürk");
+            //    Console.WriteLine("Merve Çinar");
+            //}
+
+            //CustomerList();
+            //CustomerList();
+            //CustomerList();
+            //CustomerList();
+
+            //void Sum()
+            //{
+            //    int x = 1; int y = 2; int z = x+y;
+            //    Console.WriteLine(z);
+            //}
+            
+            //Sum();
+
+
+            #endregion
+            Console.Read();
         }
     }
 }
