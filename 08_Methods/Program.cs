@@ -54,6 +54,17 @@ namespace _08_Methods
 
 
             #endregion
+
+            #region Geriye Değer Döndürmeyen String Parametreli Metotlar
+
+            //void Sum(int number1, int number2, int number3)
+            //{
+            //    int result = number1 + number2 + number3;
+            //    Console.WriteLine(result);
+            //}
+            //Sum(4, 5, 6);
+
+            #endregion
             Console.Read();
         }
     }
