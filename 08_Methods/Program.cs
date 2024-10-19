@@ -67,7 +67,7 @@ namespace _08_Methods
             #endregion
 
             #region Geriye Değer Döndüren Metotlar
-            
+
             //string CustomerName()
             //{
             //    return "Buse Yıldız";
@@ -82,6 +82,30 @@ namespace _08_Methods
             //    return name + " " + surName;
             //}
             //Console.WriteLine(StudentCard());
+
+            #endregion
+
+            #region Geriye Değer Döndüren Parametreli Metotlar
+
+            //string CountryCard(string countryName,string capital,string flagColor)
+            //{
+            //    string cardInfo = "Ülke: "+countryName +" - Başkent: " + capital +" - Bayrak Rengi: " + flagColor;
+            //    return cardInfo;
+            //}
+            //string x, y, z;
+            //Console.Write("Ülke Adını Giriniz: ");
+            //x = Console.ReadLine();
+
+            //Console.Write("Başkenti Giriniz: ");
+            //y = Console.ReadLine();
+
+            //Console.Write("Bayrak Rengini Giriniz: ");
+            //z = Console.ReadLine();
+
+            //Console.WriteLine(CountryCard(x,y,z));
+            //Console.WriteLine(CountryCard("Türkiye","Ankara","Kırmızı-Beyaz"));
+
+
 
             #endregion
             Console.Read();
