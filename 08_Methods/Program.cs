@@ -65,6 +65,25 @@ namespace _08_Methods
             //Sum(4, 5, 6);
 
             #endregion
+
+            #region Geriye Değer Döndüren Metotlar
+            
+            //string CustomerName()
+            //{
+            //    return "Buse Yıldız";
+            //}
+            //CustomerName();
+
+            //string StudentCard()
+            //{
+            //    string name = "Ali";
+            //    string surName = "Kaya";
+
+            //    return name + " " + surName;
+            //}
+            //Console.WriteLine(StudentCard());
+
+            #endregion
             Console.Read();
         }
     }
