@@ -108,6 +108,22 @@ namespace _08_Methods
 
 
             #endregion
+
+            #region Geriye Değer Döndüren Int Parametreli Metotlar
+
+           //int Sum(int number1, int number2)
+           // {
+           //     int result = number1 + number2;
+           //     return result;
+           // }
+           // Console.WriteLine(Sum(45, 98));
+           // Console.WriteLine(Sum(30, 60));
+           // Console.WriteLine(Sum(20, 56));
+
+
+            #endregion
+
+
             Console.Read();
         }
     }
