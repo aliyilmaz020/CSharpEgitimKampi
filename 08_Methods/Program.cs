@@ -55,7 +55,7 @@ namespace _08_Methods
 
             #endregion
 
-            #region Geriye Değer Döndürmeyen String Parametreli Metotlar
+            #region Geriye Değer Döndürmeyen int Parametreli Metotlar
 
             //void Sum(int number1, int number2, int number3)
             //{
