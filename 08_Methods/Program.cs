@@ -111,19 +111,37 @@ namespace _08_Methods
 
             #region Geriye Değer Döndüren Int Parametreli Metotlar
 
-           //int Sum(int number1, int number2)
-           // {
-           //     int result = number1 + number2;
-           //     return result;
-           // }
-           // Console.WriteLine(Sum(45, 98));
-           // Console.WriteLine(Sum(30, 60));
-           // Console.WriteLine(Sum(20, 56));
+            //int Sum(int number1, int number2)
+            // {
+            //     int result = number1 + number2;
+            //     return result;
+            // }
+            // Console.WriteLine(Sum(45, 98));
+            // Console.WriteLine(Sum(30, 60));
+            // Console.WriteLine(Sum(20, 56));
 
 
             #endregion
 
+            #region Örnek Uygulama
 
+            string ExamResult(string student, int exam1,int exam2,int exam3)
+            {
+                int result =( exam1 + exam2 + exam3)/3;
+                
+                if (result >= 50)
+                {
+                    return student+" "+"isimli öğrenci sınavı geçti" + " Ortalama: " + result;
+                }
+                else
+                {
+                    return student+" "+ "isimli öğrenci başarısız oldu" + " Ortalama: "+ result;
+                }
+
+            }
+            Console.WriteLine(ExamResult("Ali", 25, 41, 55));
+            Console.WriteLine(ExamResult("Ayşe", 36, 88, 90));
+            #endregion
             Console.Read();
         }
     }
