@@ -30,8 +30,27 @@ namespace _08_Methods
             //    int x = 1; int y = 2; int z = x+y;
             //    Console.WriteLine(z);
             //}
-            
+
             //Sum();
+
+
+            #endregion
+
+            #region Geriye Değer Döndürmeyen String Parametreli Metotlar
+
+            //void WriteMethod(string customerName)
+            //{
+            //    Console.WriteLine(customerName);
+            //}
+            //WriteMethod("Mehmet Yıldırım");
+
+            //void CustomerCard(string name, string surName)
+            //{
+            //    Console.WriteLine("Müşteri: " + name + " "+ surName);
+            //}
+
+            //CustomerCard("Mehmet", "Yıldız");
+            //CustomerCard("Ayşe", "Kaya");
 
 
             #endregion
