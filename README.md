@@ -28,7 +28,9 @@ Bu projede, foreach döngüsünün çalışma prensibini öğrendim. Bu konuyu p
 ## 📌 Proje 8: Metotlar
 Bu projede, geriye değer döndüren metotlar ile geriye değer döndürmeyen metotlarla çalıştım. Örnek uygulama yaparak metotların nasıl çalıştığını anladım.
 
-## 📌 Proje 9: Veritaban  Projesi
+## 📌 Proje 9: Veritaban Projesi
 Bu projede, veritaban işlemlerini yapmak için MSSQL'de bir veritabanı oluşturdum. Oluşturduğum veritabanına tablolar ekledim.
 Programda Ado.net yardımıyla veritabanı bağlantısını kurmayı, SQL komutunu kullanmayı ve veritabanındaki bilgileri konsolda nasıl gösterildiğini öğrendim.
   
+## 📌 Proje 10: Veritaban CRUD İşlemleri
+Bu projede, C# programlama dilinde veritaban tablosunda ekleme, okuma, düzenleme ve silme işlemlerinin nasıl yapıldığını öğrendim.
