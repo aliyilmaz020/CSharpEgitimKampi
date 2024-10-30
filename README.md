@@ -1,5 +1,5 @@
 
-# 📝 C# EĞİTİM KAMPI
+# 📝 C# EĞİTİM KAMPI 101
 
 Bu eğitim, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampında tamamladığım projeleri içermektedir. Bu projeler, program terimlerini anlamayı ve uygulama yeteneğimi geliştirmeye yardımcı oldu. Altta belirttiğim projelere ait detayları bulabilirsiniz.
 
